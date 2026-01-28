@@ -152,8 +152,8 @@ Using the "Shuffle Test" (Permutation Importance), the model identified **Sulfat
 
 ## 🔗 Live Demo
 
-* **Streamlit Cloud Link:** [Insert your link here if deployed]
-* **Video Demo:** [Insert YouTube link here if available]
+* 
+* **Video Demo:** https://www.linkedin.com/posts/hanifullah313_machinelearning-pytorch-fastapi-activity-7422353306825453568-sHqg?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFHCdjABH6QTdL3w0tEj_VYHQ4Z3Kr8eDgg&utm_campaign=copy_link
 
 
 ## 👨‍💻 Author
